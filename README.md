@@ -14,8 +14,6 @@ This is a Node.js-based API for the Supertraders application. This API allows us
 Here is an example request for using the API:
 
 
-This request retrieves the portfolio information for the specified user. The `:userId` parameter represents the user's unique identifier.
-
 ## Endpoints
 
 The API supports the following endpoints:
