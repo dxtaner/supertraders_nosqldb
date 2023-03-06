@@ -41,4 +41,4 @@ The source code for this project is licensed under the MIT license. See the `LIC
 
 ## Contact
 
-If you have any questions or suggestions, please email us at info@supertraders.com.
+If you have any questions or suggestions, please email us at tanerozer16@gmail.com
